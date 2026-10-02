@@ -32,3 +32,12 @@ Example:
   "score": 85,
   "reason": "The submission satisfies the stated requirements."
 }
+
+
+## Deployed Contract
+
+The Intelligent Contract was deployed and tested successfully using GenLayer Studio.
+
+Contract address:
+
+0x0Cb95111845e73c477B83e89F0FAa11960819880
