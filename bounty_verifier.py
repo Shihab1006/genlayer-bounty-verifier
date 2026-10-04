@@ -4,8 +4,7 @@ import json
 import genlayer as gl
 
 
-class BountyVerifier(gl.contract.Contract):
-    """
+class BountyVerifier(gl.Contract):    """
     Consensus-based bounty submission verifier.
 
     The contract:
