@@ -53,7 +53,7 @@ Approval is appropriate only for a meaningful implementation.
         self.last_explanation = result["explanation"]
 
     @gl.public.view
-    def get_result(self):
+    def get_result(self) -> dict:
         return {
             "submission": self.last_submission,
             "score": self.last_score,
